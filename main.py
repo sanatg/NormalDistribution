@@ -2,10 +2,14 @@
     # commands for linux:
     #     pip install PyQtWebEngine
     #     pip install PyQt5
+    #     pip install pandas
+    #     pip install plotly
     #     python3 main.py
     # commands for macosx:
     #     pip install PyQtWebEngine
     #     pip install PyQt5
+    #     pip install pandas
+    #     pip install plotly
     #     python3 main.py
 
 import plotly.figure_factory as ff
