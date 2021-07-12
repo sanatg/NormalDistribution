@@ -11,6 +11,12 @@
     #     pip install pandas
     #     pip install plotly
     #     python3 main.py
+    # commands for windows:
+    #     pip install PyQtWebEngine
+    #     pip install PyQt5
+    #     pip install pandas
+    #     pip install plotly
+    #     python3 main.py
 
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
